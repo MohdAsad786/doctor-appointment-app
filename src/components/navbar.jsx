@@ -24,7 +24,7 @@ const navbar = () => {
         </NavLink>
       </ul>
       <div>
-        
+        <button>Create account</button>
       </div>
     </div>
   )
